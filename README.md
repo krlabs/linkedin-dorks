@@ -29,3 +29,5 @@
 <a href="https://recruitmentgeek.com/tools/linkedin">Free X-Ray Search Tool Linkedin</a> 
 
 <a href="https://recruitin.net/">X-Ray Search Linkedin</a>
+
+<a href="https://www.signalhire.com/">Signal Hire Platform (search/hiring on Linkedin)</a>
