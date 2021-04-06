@@ -31,3 +31,5 @@
 <a href="https://recruitin.net/">X-Ray Search Linkedin</a>
 
 <a href="https://www.signalhire.com/">Signal Hire Platform (search/hiring on Linkedin)</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit">Boolean Search Builder for Linkedin</a>
