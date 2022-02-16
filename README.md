@@ -1,14 +1,14 @@
 # LinkeDin Google Dorks
 
-<pre>site:ru.linkedin.com/in "gmail.com" DevOps -recruiter</pre>
+<pre>site:ua.linkedin.com/in "gmail.com" DevOps -recruiter</pre>
 
-<pre>site:ru.linkedin.com/in devops "cybersecurity"</pre>
+<pre>site:ua.linkedin.com/in devops "cybersecurity"</pre>
 
-<pre>site:ru.linkedin.com/pub -pub.dir DevOps -recruiter</pre>
+<pre>site:ua.linkedin.com/pub -pub.dir DevOps -recruiter</pre>
 
-<pre>site:ru.linkedin.com/in DevOps (Anna OR Olga OR Tatiana OR Svetlana OR Anastasia) -recruiter</pre>
+<pre>site:ua.linkedin.com/in DevOps (Anna OR Olga OR Tatiana OR Svetlana OR Anastasia) -recruiter</pre>
 
-<pre>site:ru.linkedin.com/in Kubernetes Zabbix -recruiter -moscow</pre>
+<pre>site:ua.linkedin.com/in Kubernetes Zabbix -recruiter -moscow</pre>
 
 <pre>site:linkedin.com “Front end developers group” (.Net |dot Net) Greater Boston Area) -dir -job -jobs -sample -samples -template -resume service -resume writers -resume writing</pre>
 
