@@ -8,7 +8,7 @@
 
 <pre>site:ua.linkedin.com/in DevOps (Anna OR Olga OR Tatiana OR Svetlana OR Anastasia) -recruiter</pre>
 
-<pre>site:ua.linkedin.com/in Kubernetes Zabbix -recruiter -moscow</pre>
+<pre>site:ua.linkedin.com/in Kubernetes Zabbix -recruiter -london</pre>
 
 <pre>site:linkedin.com “Front end developers group” (.Net |dot Net) Greater Boston Area) -dir -job -jobs -sample -samples -template -resume service -resume writers -resume writing</pre>
 
